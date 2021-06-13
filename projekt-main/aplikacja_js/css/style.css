@@ -1,0 +1,54 @@
+.navbar 
+{
+        margin-bottom: 0;
+        border-radius: 0;
+}
+    
+.row.content
+{
+    height: 450px
+}
+
+.sidenav
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 100%;
+}
+
+#logo
+{
+    max-height:30px;
+}
+
+footer
+{
+    background-color: #c0a197;
+}
+.container{
+    height: auto;
+}
+#lista{
+    height: 250px;
+}
+.item > img{
+    max-height: 3000px;
+    width: 2000px;
+}
+
+body {
+    font-size:18px; color:#ffffff; background:#000000; 
+    font-family: 'Roboto', sans-serif;
+    color: blue;
+}
+.btn-primary{
+    border: 0cm;
+    background-color: white;
+    margin-left: 10px;
+}
+.glyphicon{
+    margin-right: 5px;
+}
+footer{
+    background-color: #222222;
+}
